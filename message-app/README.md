@@ -2,12 +2,6 @@
 
 Bu proje, **React Native** öğrenme sürecinde hazırlanmış ufak çaplı bir uygulamadır. Amaç, FlatList yapısını ve faker.js kütüphanesini kullanarak dinamik verilerle bir mesajlaşma arayüzü oluşturmaktır. Uygulama, temel olarak WhatsApp benzeri bir görünüm ve kullanıcı listesi mantığı sunar.
 
-
-## 🖼️ Ekran Görüntüsü
-
-![Uygulama Görseli](./assets/screenshot.jpeg)
-
-
 ## 🚀 Özellikler
 
 -  **Kullanıcı fotoğrafı, isim** dinamik olarak faker.js ile oluşturulur.  
@@ -16,6 +10,11 @@ Bu proje, **React Native** öğrenme sürecinde hazırlanmış ufak çaplı bir 
 -  **FlatList** kullanılarak verimli listeleme yapılır.  
 -  WhatsApp benzeri sade ve modern arayüz tasarımı.  
 -  **React Native StyleSheet** ile özel stil düzenlemeleri.  
+
+## 🖼️ Ekran Görüntüsü
+
+<img src="./assets/screenshot.jpeg" height="50%" width="50%">
+
 
 
 ## 🛠️ Kullanılan Teknolojiler
