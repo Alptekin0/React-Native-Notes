@@ -34,19 +34,19 @@ Her hikaye, kullanıcı profil fotoğrafı ve kullanıcı ismi ile birlikte yata
 <br/>
 
 ## 📂 Proje Yapısı
-
-Instagram-Story/
-│
-├── .expo/
-├── Components/
-│   └── Story.tsx
-│
-├── node_modules/
-│
-├── App.tsx
-├── index.tsx
-├── app.json
-├── package.json
-├── tsconfig.json
-├── .gitignore
-└── README.mdr
+  
+Instagram-Story/  
+│  
+├── .expo/  
+├── Components/  
+│   └── Story.tsx  
+│  
+├── node_modules/  
+│  
+├── App.tsx  
+├── index.tsx  
+├── app.json  
+├── package.json  
+├── tsconfig.json  
+├── .gitignore  
+└── README.mdr  
